@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Hassan Ahmad, an experienced software engineer and professional mobile application developer with a strong passion for crafting high-quality, user-friendly apps. My expertise lies in efficiently resolving complex issues through robust software engineering methods, ensuring optimal performance and seamless user experiences. With a deep understanding of both front-end and back-end technologies, I'm always eager to take on new challenges and deliver innovative solutions. Let's connect and create something amazing together!
 <!--
 **hassan12-code/hassan12-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

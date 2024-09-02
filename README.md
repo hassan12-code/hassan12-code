@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hassan-ahmad-flutter-developer/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/hassan-ahmad-flutter-developer/])
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/hustlerhassan/)
 
 

@@ -31,11 +31,13 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan12-code&show_icons=true&theme=radical)
+### GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassan12-code&theme=radical)
 
 ### Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan12-code&layout=compact&theme=radical)
 
-### GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassan12-code&theme=radical)
+### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan12-code&show_icons=true&theme=radical)
+
+

@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan12-code&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1&PAT_1)
 
-
+### WaKaTime Stats (Last Year):
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hassan12-code)](https://github.com/anuraghazra/github-readme-stats)

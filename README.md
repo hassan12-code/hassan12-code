@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-hassan-ahmads-projects-52c7f420.vercel.app/api?username=hassan12-code&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1&PAT_1)
 
-[![Anurag's GitHub stats](https://github-readme-stats-hassan-ahmads-projects-52c7f420.vercel.app/api?username=hassan12-code)]
+<img align="center" height="170" src="https://github-readme-stats-hassan-ahmads-projects-52c7f420.vercel.app/api/top-langs/?username=hassan12-code&layout=compact&langs_count=16&theme=dracula"/>
 

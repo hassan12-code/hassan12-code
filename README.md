@@ -41,9 +41,4 @@ Here are some ideas to get you started:
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan12-code&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1&PAT_1)
 
-### ABC:
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 

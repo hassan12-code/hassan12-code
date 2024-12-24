@@ -36,10 +36,9 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassan12-code&theme=radical)
 
 ### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan12-code&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hassan12-code&layout=compact&theme=radical)
 
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hassan12-code&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1&PAT_1)
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hassan12-code&theme=react&line_height=40&hide=css"/> </a>
 

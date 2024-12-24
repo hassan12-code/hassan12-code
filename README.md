@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan12-code&layout=compact&theme=radical)
 
 ### GitHub Stats:
-![GitHub Stats](https://github-readme-stats-hassan-ahmads-projects-52c7f420.vercel.app/api?username=hassan12-code&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1&PAT_1)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hassan12-code&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1&PAT_1)
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hassan12-code&theme=react&line_height=40&hide=css"/> </a>
 
